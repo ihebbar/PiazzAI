@@ -1,0 +1,13 @@
+[
+    {
+      "title": "How does LSD radix sort work?",
+      "question": "I'm confused about how LSD radix sort handles different digit lengths.",
+      "answers": [
+        "TA: LSD processes from least significant digit to most. Pad shorter numbers with leading zeros.",
+        "Student: Nets core idea is stable counting sort on each digit."
+      ],
+      "tags": ["sorting", "radix", "algorithms"],
+      "date": "2024-10-12"
+    }
+  ]
+  
